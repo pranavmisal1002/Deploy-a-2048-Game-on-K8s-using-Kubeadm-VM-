@@ -51,7 +51,7 @@ Ensure the following:
 
 ### ✅ Step 3: Set Up Kubernetes Cluster Using Kubeadm
 
-Install and configure the Kubernetes cluster (Master + Worker nodes) by following the complete kubeadm setup guide:
+Install and configure the Kubernetes cluster (Master + Worker nodes) by following the complete kubeadm(click) setup guide:
 
 👉 **[Kubeadm Cluster Setup Documentation](https://github.com/pranavmisal1002/kubeadm-cluster-setup/blob/main/README.md#setting-up-kubernetes-on-virtualbox-virtual-machines)**
 
