@@ -64,11 +64,11 @@ This guide covers:
 - Network plugin configuration
 ---
 <img src="screenshots/1.jpeg" width="600">
----
+
 <img src="screenshots/3.jpeg" width="600">
----
+
 <img src="screenshots/4.jpeg" width="600">
----
+
 ## 🚀 Deploy Game Application
 ### ✅ Step 4: Create Deployment File
 
