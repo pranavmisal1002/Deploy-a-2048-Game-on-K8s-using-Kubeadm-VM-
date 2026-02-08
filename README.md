@@ -63,7 +63,9 @@ This guide covers:
 - Worker node joining  
 - Network plugin configuration
 ---
-![Install and configure the Kubernetes cluster](screenshots/1.jpeg)
+<img src="screenshots/1.jpeg" width="600">
+
+
 ---
 ![Install and configure the Kubernetes cluster](screenshots/3.jpeg)
 ---
