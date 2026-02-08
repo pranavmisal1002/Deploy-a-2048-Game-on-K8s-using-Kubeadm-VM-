@@ -117,6 +117,9 @@ Verify HPA status:
 ```bash
 kubectl get hpa
 ```
+---
+![Install and configure the Kubernetes cluster](screenshots/5.jpeg)
+---
 ## 🌍 Access the Application
 
 Retrieve the service external IP:
@@ -128,6 +131,8 @@ Open the application in your browser:
 ```bash
 http://<EXTERNAL_IP>:<PORT>
 ```
+---
+![Install and configure the Kubernetes cluster](screenshots/6.jpeg)
 🎉 Your game application is now successfully running on Kubernetes!
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.30-blue)
