@@ -64,9 +64,11 @@ This guide covers:
 - Network plugin configuration
 ---
 ![Install and configure the Kubernetes cluster](screenshots/1.jpeg)
+---
 ![Install and configure the Kubernetes cluster](screenshots/3.jpeg)
-
-
+---
+![Install and configure the Kubernetes cluster](screenshots/4.jpeg)
+---
 ## 🚀 Deploy Game Application
 ### ✅ Step 4: Create Deployment File
 
