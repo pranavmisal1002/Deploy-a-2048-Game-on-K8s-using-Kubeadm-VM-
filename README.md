@@ -62,7 +62,7 @@ This guide covers:
 - Cluster initialization  
 - Worker node joining  
 - Network plugin configuration
-![Install and configure the Kubernetes cluster](screenshots/1.png)
+![Install and configure the Kubernetes cluster](screenshots/1.jpeg)
 
 ## 🚀 Deploy Game Application
 ### ✅ Step 4: Create Deployment File
